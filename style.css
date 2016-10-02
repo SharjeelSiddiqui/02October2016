@@ -1,0 +1,24 @@
+body {
+	background-color : black;
+}
+div {
+	background-color : white ;
+	margin : 50px ;
+}
+h1 {
+	font-family : Calibri ;
+	color : #1045A0 ;
+	font-size: 40px;
+}
+h3 {
+	font-family : Calibri ;
+	display: inline;
+	margin-right: 250px;
+	margin-left: 170px;
+}
+span.blue{
+	color: #1045A0;
+}
+span.green{
+	color: #4EB668;
+}
